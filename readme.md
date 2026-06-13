@@ -10,6 +10,15 @@ Discord Bot Prediksi Risiko Diabetes Berbasis Machine Learning
 - joblib (python)
 - discord.js (node js)
 
-![Screenshot](https://raw.githubusercontent.com/galviy/discord-bot-analisis-diabetes/main/photos/image.png)
 
+## Screenshot
+
+### Hasil train dataset
+![Screenshot 1](photos/image.png)
+
+### Implementasi discord bot
+![Screenshot 2](photos/image2.png)
+
+### command yang lain
+![Screenshot 3](photos/image3.png)
 
