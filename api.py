@@ -54,3 +54,5 @@ server = HTTPServer(("0.0.0.0", 8080), DiabetesHandler)
 
 print("Server running on :8080")
 server.serve_forever()
+
+print("opank")
